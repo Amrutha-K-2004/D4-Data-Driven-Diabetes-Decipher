@@ -2,6 +2,8 @@
 
 An experimental C++ / Qt project for exploring and visualizing diabetes data . This repository contains code, UI forms and example datasets used during development.
 
+🧠 This project earned 2rd place in our Project-Based Learning event focused on real-world problem solving.
+
 ## Highlights ✨
 
 - 📁 Data: `diabetes.csv` — included and used for analysis and UI demos.
